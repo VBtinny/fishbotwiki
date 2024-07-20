@@ -40,6 +40,10 @@ Goblins will either give you trout or a mystery-sack of goblin goods.\
 ![chest_goblin_r](https://github.com/fishbotapp/fishbotwiki/assets/163616414/b0247101-fd5f-42da-a143-9fb8b90afc91)![chest_goblinpurple_r](https://github.com/fishbotapp/fishbotwiki/assets/163616414/563999f1-24d5-4bb9-a1c0-fe2c46caffbd)
 
 
+## TravellingSalesman
+
+The travellingsalesman sells the rarest artifacts that can be found on the lake (Proposes two offers per spawn)
+
 ## Holiday
 
 Holiday chests spawn during holiday events.\
